@@ -1,0 +1,8 @@
+{
+  "name": "Gemini Broadcaster Pro",
+  "description": "A professional-grade streaming and vision-mixing application inspired by Wirecast, featuring multi-source management, Preview/Live monitors, and integrated Gemini Live AI co-hosting.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
